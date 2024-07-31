@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for Strategic Development in Engineering",
+        "title": "Engineer Your Win with Gamble"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Engineer Your Win with Gamble",
+  "subtitle": "Innovative Solutions for Strategic Development in Engineering"
+}
